@@ -70,13 +70,6 @@ Answering the question requires you to complete the following steps:
 
 **Answer:** The monthly search traffic was roughly 35,172 while the search traffic in May 2020 was 38,181. This showed an increase in search traffic that could be caused by the release of financial results.
 
-<img width="1008" alt="Screenshot 2024-03-07 at 9 19 10 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/d1c160a5-375a-4e04-930d-2c31ddad890c">
-
-<img width="720" alt="Screenshot 2024-03-07 at 9 19 18 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/3626e579-c3a4-4bac-8c09-d5620e529b49">
-
-Question: Does any day-of-week effect that you observe concentrate in just a few hours of that day?
-
-Answer: Looking at the heatmap we can see that during the initial hours of the day and the last few hours of the day have an increase in search traffic. One possibility of why this is, that people look at their phones first thing in the morning and before they fall asleep. Another possibility is between the hours 6 & 10 there is a decrease because people are at work or school and cannot view their phones. It also seems like the search traffic starts off very high during the beginning of the week and slows down during the weekend.
 
 
 ### Step 2: Mine the Search Traffic Data for Seasonality
@@ -91,8 +84,13 @@ To help Marketing, you'll want to mine the search traffic data for predictable s
 
 3. Group the search data by the week of the year. Does the search traffic tend to increase during the winter holiday period (weeks 40 through 52)?
 
-<img width="1016" alt="Screenshot 2024-03-07 at 9 27 42 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/4ad58626-80a7-48ff-bce3-f519e992b068">
+<img width="1008" alt="Screenshot 2024-03-07 at 9 19 10 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/d1c160a5-375a-4e04-930d-2c31ddad890c">
 
+<img width="720" alt="Screenshot 2024-03-07 at 9 19 18 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/3626e579-c3a4-4bac-8c09-d5620e529b49">
+
+Question: Does any day-of-week effect that you observe concentrate in just a few hours of that day?
+
+Answer: Looking at the heatmap we can see that during the initial hours of the day and the last few hours of the day have an increase in search traffic. One possibility of why this is, that people look at their phones first thing in the morning and before they fall asleep. Another possibility is between the hours 6 & 10 there is a decrease because people are at work or school and cannot view their phones. It also seems like the search traffic starts off very high during the beginning of the week and slows down during the weekend.
 
 Question: Does any day-of-week effect that you observe concentrate in just a few hours of that day?
 
