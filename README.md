@@ -120,6 +120,10 @@ You can find out the answer by completing the following steps:
 
 <img width="1022" alt="Screenshot 2024-03-07 at 9 42 34 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/1188faeb-3c2b-45da-bf98-469781d0df29">
 
+**Question:** Do both time series indicate a common trend that’s consistent with this narrative?
+
+**Answer:** Looking at the plots above, during the months of February 2020 and March 2020, there is a clear downtrend in stock price and search traffic. As the stock price increased during May so did a huge spike occur in search traffic. Thus, as the stock price increases, the search traffic becomes highly volatile during those moments.
+
 <img width="991" alt="Screenshot 2024-03-07 at 9 51 06 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/e49f9f54-5a58-4d3e-8367-d69bf691c8fa">
 
 
