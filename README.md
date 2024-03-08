@@ -61,14 +61,14 @@ Answering the question requires you to complete the following steps:
 
 1. Read the search data into a DataFrame, and then slice the data to just the month of May 2020. (During this month, Mercado Libre released its quarterly financial results.) Use hvPlot to visualize the results. Do any unusual patterns exist?
 
+2. Calculate the total search traffic for the month, and then compare the value to the monthly median across all months. Did the Google search traffic increase during the month that Mercado Libre released its financial results?
+
 <img width="1032" alt="Screenshot 2024-03-07 at 9 18 46 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/26429509-ef93-4589-be93-3b71fa00f888">
 
 
 **Question:** Did the Google search traffic increase during the month that MercadoLibre released its financial results?
 
 **Answer:** The monthly search traffic was roughly 35,172 while the search traffic in May 2020 was 38,181. This showed an increase in search traffic that could be caused by the release of financial results.
-
-2. Calculate the total search traffic for the month, and then compare the value to the monthly median across all months. Did the Google search traffic increase during the month that Mercado Libre released its financial results?
 
 <img width="1008" alt="Screenshot 2024-03-07 at 9 19 10 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/d1c160a5-375a-4e04-930d-2c31ddad890c">
 
@@ -77,6 +77,7 @@ Answering the question requires you to complete the following steps:
 Question: Does any day-of-week effect that you observe concentrate in just a few hours of that day?
 
 Answer: Looking at the heatmap we can see that during the initial hours of the day and the last few hours of the day have an increase in search traffic. One possibility of why this is, that people look at their phones first thing in the morning and before they fall asleep. Another possibility is between the hours 6 & 10 there is a decrease because people are at work or school and cannot view their phones. It also seems like the search traffic starts off very high during the beginning of the week and slows down during the weekend.
+
 
 ### Step 2: Mine the Search Traffic Data for Seasonality
 
@@ -89,6 +90,7 @@ To help Marketing, you'll want to mine the search traffic data for predictable s
 2. Using hvPlot, visualize this traffic as a heatmap, referencing `index.hour` for the x-axis and `index.dayofweek` for the y-axis. Does any day-of-week effect that you observe concentrate in just a few hours of that day?
 
 3. Group the search data by the week of the year. Does the search traffic tend to increase during the winter holiday period (weeks 40 through 52)?
+
 
 ### Step 3: Relate the Search Traffic to Stock Price Patterns
 
@@ -107,6 +109,13 @@ You can find out the answer by completing the following steps:
    - “Hourly Stock Return”, which holds the percentage of change in the company stock price on an hourly basis
 
 4. Review the time series correlation, and then answer the following question: Does a predictable relationship exist between the lagged search traffic and the stock volatility or between the lagged search traffic and the stock price returns?
+
+<img width="1016" alt="Screenshot 2024-03-07 at 9 27 42 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/4ad58626-80a7-48ff-bce3-f519e992b068">
+
+
+Question: Does any day-of-week effect that you observe concentrate in just a few hours of that day?
+
+Answer: Looking at the heatmap we can see that during the initial hours of the day and the last few hours of the day have an increase in search traffic. One possibility of why this is, that people look at their phones first thing in the morning and before they fall asleep. Another possibility is between the hours 6 & 10 there is a decrease because people are at work or school and cannot view their phones. It also seems like the search traffic starts off very high during the beginning of the week and slows down during the weekend.
 
 ### Step 4: Create a Time Series Model by Using Prophet
 
