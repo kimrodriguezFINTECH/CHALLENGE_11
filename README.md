@@ -91,6 +91,13 @@ To help Marketing, you'll want to mine the search traffic data for predictable s
 
 3. Group the search data by the week of the year. Does the search traffic tend to increase during the winter holiday period (weeks 40 through 52)?
 
+<img width="1016" alt="Screenshot 2024-03-07 at 9 27 42 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/4ad58626-80a7-48ff-bce3-f519e992b068">
+
+
+Question: Does any day-of-week effect that you observe concentrate in just a few hours of that day?
+
+Answer: Looking at the heatmap we can see that during the initial hours of the day and the last few hours of the day have an increase in search traffic. One possibility of why this is, that people look at their phones first thing in the morning and before they fall asleep. Another possibility is between the hours 6 & 10 there is a decrease because people are at work or school and cannot view their phones. It also seems like the search traffic starts off very high during the beginning of the week and slows down during the weekend.
+
 
 ### Step 3: Relate the Search Traffic to Stock Price Patterns
 
@@ -110,12 +117,8 @@ You can find out the answer by completing the following steps:
 
 4. Review the time series correlation, and then answer the following question: Does a predictable relationship exist between the lagged search traffic and the stock volatility or between the lagged search traffic and the stock price returns?
 
-<img width="1016" alt="Screenshot 2024-03-07 at 9 27 42 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/4ad58626-80a7-48ff-bce3-f519e992b068">
+<img width="1006" alt="Screenshot 2024-03-07 at 9 29 58 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/eebb17d3-525f-406e-b512-df8c8d00096c">
 
-
-Question: Does any day-of-week effect that you observe concentrate in just a few hours of that day?
-
-Answer: Looking at the heatmap we can see that during the initial hours of the day and the last few hours of the day have an increase in search traffic. One possibility of why this is, that people look at their phones first thing in the morning and before they fall asleep. Another possibility is between the hours 6 & 10 there is a decrease because people are at work or school and cannot view their phones. It also seems like the search traffic starts off very high during the beginning of the week and slows down during the weekend.
 
 ### Step 4: Create a Time Series Model by Using Prophet
 
