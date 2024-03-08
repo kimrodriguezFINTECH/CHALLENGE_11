@@ -175,3 +175,16 @@ Now, you need to produce a time series model that analyzes and forecasts pattern
 **Question:** What's the lowest point for search traffic in the calendar year?
 
 **Answer:** The lowest point of search traffic was during the end of September.
+
+## Tutors & Peers 
+### Tutor Meetings through FINTECH Bootcamp:
+* Saad
+- Thursday 3/7/2024
+* Shahriar Shochi (TA)
+- Thursday 3/7/2024
+
+ 
+### Study Partner taking FINTECH Bootcamp (Same Class):
+* Wilson Qin
+- Helped eachother fix code errors
+- Cross Referenced work to help eachother understand why we are using a specific code and understand what the question is asking us for
