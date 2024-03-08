@@ -146,3 +146,32 @@ Now, you need to produce a time series model that analyzes and forecasts pattern
 
    - What's the lowest point for search traffic in the calendar year?
 
+<img width="983" alt="Screenshot 2024-03-07 at 9 54 48 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/aca750ac-6510-45ca-a423-2eed0bdf7d3e">
+
+<img width="979" alt="Screenshot 2024-03-07 at 9 54 52 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/8d003f89-7b4b-4f04-8a50-a1e512731f4a">
+
+**Question:**  How's the near-term forecast for the popularity of MercadoLibre?
+
+**Answer:** The forecast shows that the popularity gradually decreases towards the end of 2020.
+
+<img width="963" alt="Screenshot 2024-03-07 at 9 56 21 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/e6b90ede-02ad-4d21-be60-5396f7045149">
+
+<img width="896" alt="Screenshot 2024-03-07 at 9 56 28 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/372f99e3-9a07-415e-a3e4-f282fd607298">
+
+<img width="878" alt="Screenshot 2024-03-07 at 9 56 30 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/e3dbfbcd-79e9-468f-89e2-90084427fd47">
+
+<img width="894" alt="Screenshot 2024-03-07 at 9 56 35 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/9ba098cc-41e8-4253-81f8-061831aea8a2">
+
+<img width="892" alt="Screenshot 2024-03-07 at 9 56 37 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/50dad966-adda-4736-8772-58184a271d8f">
+
+**Question:** What time of day exhibits the greatest popularity?
+
+**Answer:** Towards the end of the day 00:00:00 (24 hour mark).
+
+**Question:** Which day of week gets the most search traffic?
+   
+**Answer:** Monday's & Tuesday's have the most search traffic.
+
+**Question:** What's the lowest point for search traffic in the calendar year?
+
+**Answer:** The lowest point of search traffic was during the end of September.
