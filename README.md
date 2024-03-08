@@ -113,7 +113,12 @@ You can find out the answer by completing the following steps:
 
 4. Review the time series correlation, and then answer the following question: Does a predictable relationship exist between the lagged search traffic and the stock volatility or between the lagged search traffic and the stock price returns?
 
-<img width="1006" alt="Screenshot 2024-03-07 at 9 29 58 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/eebb17d3-525f-406e-b512-df8c8d00096c">
+<img width="1000" alt="Screenshot 2024-03-07 at 9 48 47 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/b1c9fd34-b82d-417f-8d22-3153e1b88c69">
+
+
+<img width="1029" alt="Screenshot 2024-03-07 at 9 42 05 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/d8a3d3b5-0a01-4eea-8145-18e34b62ca4c">
+
+<img width="1022" alt="Screenshot 2024-03-07 at 9 42 34 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/1188faeb-3c2b-45da-bf98-469781d0df29">
 
 
 ### Step 4: Create a Time Series Model by Using Prophet
