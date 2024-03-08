@@ -61,7 +61,7 @@ Answering the question requires you to complete the following steps:
 
 1. Read the search data into a DataFrame, and then slice the data to just the month of May 2020. (During this month, Mercado Libre released its quarterly financial results.) Use hvPlot to visualize the results. Do any unusual patterns exist?
 
-<img width="1440" alt="Screenshot 2024-03-07 at 9 18 46 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/382c9d68-6066-420e-8ac9-3e0058b3fa7e">
+<img width="1032" alt="Screenshot 2024-03-07 at 9 18 46 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/26429509-ef93-4589-be93-3b71fa00f888">
 
 
 **Question:** Did the Google search traffic increase during the month that MercadoLibre released its financial results?
@@ -70,9 +70,9 @@ Answering the question requires you to complete the following steps:
 
 2. Calculate the total search traffic for the month, and then compare the value to the monthly median across all months. Did the Google search traffic increase during the month that Mercado Libre released its financial results?
 
-<img width="1440" alt="Screenshot 2024-03-07 at 9 19 10 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/97049927-559b-4f9f-ad51-97fa8e8eab7a">
+<img width="1008" alt="Screenshot 2024-03-07 at 9 19 10 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/d1c160a5-375a-4e04-930d-2c31ddad890c">
 
-<img width="1440" alt="Screenshot 2024-03-07 at 9 19 18 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/a7fefa5d-f30f-45b1-bbd6-2436372fe01e">
+<img width="720" alt="Screenshot 2024-03-07 at 9 19 18 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/3626e579-c3a4-4bac-8c09-d5620e529b49">
 
 Question: Does any day-of-week effect that you observe concentrate in just a few hours of that day?
 
