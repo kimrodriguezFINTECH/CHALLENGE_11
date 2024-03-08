@@ -126,6 +126,9 @@ You can find out the answer by completing the following steps:
 
 <img width="991" alt="Screenshot 2024-03-07 at 9 51 06 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/e49f9f54-5a58-4d3e-8367-d69bf691c8fa">
 
+**Question:** Does a predictable relationship exist between the lagged search traffic and the stock volatility or between the lagged search traffic and the stock price returns?
+
+**Answer:** Based off of the correlation table above, we can see that there is a weak positive correlation among Stock Volatility & Hourly Stock Return and a weak negative correlation among Lagged Search Trends & Stock Volatility. Also note worth there is a weak positive correlation among Hourly Stock Return & Stock Volatility & Lagged Search Trends.
 
 ### Step 4: Create a Time Series Model by Using Prophet
 
