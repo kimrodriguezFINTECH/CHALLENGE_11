@@ -120,6 +120,8 @@ You can find out the answer by completing the following steps:
 
 <img width="1022" alt="Screenshot 2024-03-07 at 9 42 34 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/1188faeb-3c2b-45da-bf98-469781d0df29">
 
+<img width="991" alt="Screenshot 2024-03-07 at 9 51 06 PM" src="https://github.com/kimrodriguezFINTECH/CHALLENGE_11/assets/152752672/e49f9f54-5a58-4d3e-8367-d69bf691c8fa">
+
 
 ### Step 4: Create a Time Series Model by Using Prophet
 
